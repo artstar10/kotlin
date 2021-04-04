@@ -6,30 +6,28 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:text="Hello World"
+        style="@style/title_purple"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        style="@style/title_purple" />
+        android:text="@string/hello_world" />
 
     <TextView
         style="@style/title_purple"
-            android:text="Hello World"
-            android:textSize="24sp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
 
     <RadioButton
         style="@style/title_purple"
         android:textSize="22sp"
         android:layout_width="wrap_content"
-        android:text="olá radiobutton"
-        android:layout_height="wrap_content" />
+        android:text="@string/hi_radio"/>
+
     <CheckBox
         style="@style/title_purple"
-        android:textColor="@color/black"
         android:layout_width="wrap_content"
-        android:text="olá checkbox"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:text="@string/hi_checkbox" />
 
 
 
