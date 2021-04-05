@@ -3,4 +3,6 @@
     <string name="hello_world">Olá Mundo!</string>
     <string name="hi_radio">olá radiobutton</string>
     <string name="hi_checkbox">olá checkbox</string>
+    <string name="calcular">Calcular</string>
+    <string name="imc">imc</string>
 </resources>
