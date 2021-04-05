@@ -5,4 +5,6 @@
     <string name="hi_checkbox">olá checkbox</string>
     <string name="calcular">Calcular</string>
     <string name="imc">imc</string>
+    <string name="peso_hint">Peso (ex: 65.8)</string>
+    <string name="hint_altura">Altura (ex: 1.88)</string>
 </resources>
