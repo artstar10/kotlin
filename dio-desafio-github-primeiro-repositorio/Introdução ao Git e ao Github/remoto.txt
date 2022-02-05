@@ -1,0 +1,2 @@
+comando para ver o repositorio remoto atraves do terminal:
+git remote -v
