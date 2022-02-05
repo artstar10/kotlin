@@ -1,2 +1,2 @@
 comando para enviar alteração à branch remota:
-git pull
+git push
