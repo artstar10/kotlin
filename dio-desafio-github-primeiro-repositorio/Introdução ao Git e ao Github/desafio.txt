@@ -1,0 +1,1 @@
+enviar documento txt ao github atraves de linha de comando
