@@ -1,0 +1,48 @@
+Quando é necessário fazer um screenshot da tela que está em exibição no dispositivo e que seja detalhada toda estrutura de layout, podemos utilizar qual ferramenta de debug?
+Layout Inspector
+
+Qual evaluation expression abaixo é utilizada para listar 
+response.body()?.tolist
+
+Como podemos definir a funcionalidade do “Evaluate Expressions”?
+Funciona quando a aplicação está pausada em um ponto
+
+“Executa seu aplicativo em modo de depuração e ele pausa a execução conforme os pontos de interrupção definidos por você.”
+Qual ferramenta do Android Studio traz essa funcionalidade?
+Debug app
+
+“Executa seu aplicativo em modo de depuração e ele pausa a execução conforme os pontos de interrupção definidos por você.”
+Qual ferramenta do Android Studio traz essa funcionalidade?
+response.body()?.tolist
+
+“________ adiciona um debugger com o app em execução, sem que ele tenha que reiniciar o builder.”
+Na afirmação a cima, estamos falando de qual ferramenta de debugger?
+Attah Debugger
+
+“________ adiciona um debugger com o app em execução, sem que ele tenha que reiniciar o builder.”
+Na afirmação a cima, estamos falando de qual ferramenta de debugger?
+Layout inspetor
+
+Como podemos definir a funcionalidade do “Android Profiler”?
+Oferece em ttempo real, dados
+
+Como podemos definir a funcionalidade do “Android Profiler”?
+Apply
+
+Como podemos definir a funcionalidade do “Android Profiler”?
+Funiona quando a apliação esttá pausada em um ponto
+
+é utilizado para analisar a causa da falha e corrigir os problemas”.
+Estamos falando de qual ferramenta de depuração?
+Firebase crashlytis
+
+aplica as modificações no código e reinicia a Activity, sem re
+apply hanges and restart activity
+
+Como podemos definir a funcionalidade do “Android Profiler”
+Oferece em tempo real dados para ajudar a entender como seu app usa recursos
+
+Executa seu aplicativo em modo de depuração e ele pausa a execução conforme os pontos de interrupção definidos por você.”
+Debug App
+
+
