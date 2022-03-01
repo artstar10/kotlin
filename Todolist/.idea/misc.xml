@@ -6,6 +6,8 @@
         <entry key="..\:/cursos/dio/kotlin/kotlin/Todolist/app/src/main/res/drawable/ic_add.xml" value="0.1715" />
         <entry key="..\:/cursos/dio/kotlin/kotlin/Todolist/app/src/main/res/layout/activity_add_task.xml" value="0.33" />
         <entry key="..\:/cursos/dio/kotlin/kotlin/Todolist/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/cursos/dio/kotlin/kotlin/Todolist/app/src/main/res/layout/item_task.xml" value="0.25" />
+        <entry key="..\:/cursos/dio/kotlin/kotlin/Todolist/app/src/main/res/menu/popup_menu.xml" value="0.25" />
       </map>
     </option>
   </component>
